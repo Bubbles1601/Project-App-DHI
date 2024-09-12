@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "253585803613",
+    "project_id": "project-dhi-ednwmq",
+    "storage_bucket": "project-dhi-ednwmq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253585803613:android:a89557613195b0ce7ec0b4",
+        "android_client_info": {
+          "package_name": "com.galacticgeeks.dhi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzSY2pZ9q1KBwx6vv1hJsjzASAuL2HIXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
